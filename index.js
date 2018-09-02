@@ -26,8 +26,7 @@ function iLoveTheBeatles(n) {
     n += 1;
   }
   while ( n < 15 ) {
-    newArray.push('I love the Beatles!')
-  }
+    
   newArray.pop();
   return newArray
 }
